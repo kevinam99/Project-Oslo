@@ -131,7 +131,12 @@ body {
     height: 65%;
     width: 75%;
     border-radius: 10px;
+    
+}
+
+.winners-img:hover{
     box-shadow: -2px -1px 12px -2px #000000;
+    transition: 0.6s;
 }
 
 
